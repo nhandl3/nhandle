@@ -1,0 +1,11 @@
+name = "Go Doc UX"
+license = "MIT"
+licenselink = ""
+description = ""
+tags = ["blog", "doc"]
+features = ["blog"]
+min_version = 0.1
+
+[author]
+    name = "nhandle"
+    homepage = "http://www.idoidone.com"
