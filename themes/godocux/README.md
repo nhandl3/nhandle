@@ -1,6 +1,6 @@
 # Go Doc UX
 
-Go Doc UX is a simple theme inspired by [GoDoc](https://godoc.org/) layout.
+Go Doc UX is a simple yet rich theme for technical writer, inspired by [GoDoc](https://godoc.org/).
 
 ![Go Doc UX screenshot](#)
 
