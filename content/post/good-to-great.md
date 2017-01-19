@@ -21,6 +21,8 @@ h4 { margin-top: 20px; }
 }
 ```
 
+{{< figure src="/media/offline-signing_infographic.svg" title="Offline-signing infographic" >}}
+
 ## Part 1
 This is part 1
 ### Sub part
