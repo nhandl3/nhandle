@@ -1,1 +1,7 @@
-<!--TODO-->
+{{ partial "head" . }}
+
+{{ range first 10 .Data.Pages }}
+    {{ partial "article_header" . }}
+{{ end }}
+
+{{ partial "footer" . }}

@@ -1,1 +1,11 @@
-<!--TODO-->
+{{ partial "head" . }}
+
+<h2>{{ .Title }}</h2>
+
+<div id="toc">
+    {{ .TableOfContents }}
+</div>
+
+{{ .Content }}
+
+{{ partial "footer" . }}
